@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Kaushan Script";
+    src: url('../public/fonts/KaushanScript-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url('../public/fonts/Poppins-Thin.ttf');
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url('../public/fonts/Poppins-ExtraLight.ttf');
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url('../public/fonts/Poppins-Light.ttf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url('../public/fonts/Poppins-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url('../public/fonts/Poppins-Medium.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url('../public/fonts/Poppins-SemiBold.ttf');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url('../public/fonts/Poppins-Bold.ttf');
+    font-weight: 700;
+}
+
+@layer base {
+
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: 'Poppins', sans-serif;
+        background: #0f172a;
+    }
+}
