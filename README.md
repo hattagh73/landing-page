@@ -7,7 +7,7 @@ Here is the table of contents of our project. You may use it to explore the whol
 - [Screenshots](#-screenshots)
 
 ## 📢 Landing Page via Tailwind
-In this project we will explore on the introduction of basic to `Tailwind CSS Framework` by creating a one section of **landing page**.
+In this project we will explore on the introduction of basic to `Tailwind CSS Framework` by creating a one section of **landing page**. Added `overlay` whereby when user is `hovering` to the `section` thus it will become a little bit `darker`. To ease user to read clearly since the background image is quite bright.
 
 ## 🚀 Technology Stack
 A list of **technology stack** that we applied in this project. There are as listed below:
