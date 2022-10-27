@@ -1,8 +1,8 @@
-
-
+<!-- Project Title -->
 ## 📓 Project Title
 Landing Page Using TailwindCSS.
 
+<!-- Table Of Contents -->
 ## 📌 Table Of Contents
 Here is the table of contents of our project. You may use it to explore the whole project. 🛸
 
@@ -14,6 +14,7 @@ Here is the table of contents of our project. You may use it to explore the whol
 - [Screenshots](#-screenshots)
 - [Videos](#%EF%B8%8F-videos)
 
+<!-- About Project -->
 ## 📢 About Project
 In this project we will explore on the basic of **TailwindCSS Framework**.
 
@@ -22,6 +23,7 @@ What we have done in the recent times:
 * [x] Focus only on **Desktop** view at the moment.
 * [x] Add an **overlay** whereby when user is **hovering** to the section thus it will become a little bit **darker**. 
 
+<!-- Technology Stack -->
 ## 🚀 Technology Stack
 A list of **technology stack** that we applied in this project. There are as listed below:
 
@@ -41,6 +43,7 @@ A list of **technology stack** that we applied in this project. There are as lis
   </a>
 </p>
 
+<!-- References -->
 ## 🔎 References
 This is a list of references that we found quite helpful in the contribution to this project.
 1. Background image used: [Unsplash](https://unsplash.com/s/photos/canyon)
@@ -49,18 +52,18 @@ This is a list of references that we found quite helpful in the contribution to 
     
 3. Color Gradients: [Color Gradients](https://uigradients.com/)
 
+<!-- Screenshots -->
 ## 📸 Screenshots
 Here are some of the screenshot outputs of the project.
 
 <img width="580" alt="Image results" src="https://user-images.githubusercontent.com/92319348/198091508-aa480db3-309b-465c-9e11-0e6ac4d9b420.png">
 
+<!-- Videos -->
 ## 📽️ Videos
 Here are some of the video results of the project. [Video Results](https://youtu.be/SUweYwzNpns?t=5)
 
 
-<p align="right">
-    <a href="#-project-title">🔼<br>Go top</a>
-</p>
+<p align="right"><a href="#-project-title">🔼<br>Go top</a></p>
 
 
 
