@@ -23,6 +23,7 @@ Here is the table of contents of our project. You may use it to explore the whol
 In this project we will explore on the basic of **TailwindCSS Framework**.
 
 What we have done in the recent times:
+* [x] Design the project in Figma. [View](https://www.figma.com/proto/QLdDXJj4ahh6rOclQH4jOT/First-Design?page-id=1680%3A494&node-id=1680%3A498&viewport=-68%2C463%2C0.56&scaling=min-zoom) 
 * [x] Create one section only of a **landing page**. 
 * [x] Focus only on **Desktop** view at the moment.
 * [x] Add an **overlay** whereby when user is **hovering** to the section thus it will become a little bit **darker**. 
