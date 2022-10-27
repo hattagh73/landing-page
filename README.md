@@ -46,7 +46,7 @@ A list of **technology stack** that we applied in this project. There are as lis
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode" />
   </a>
 </p>
 
@@ -77,8 +77,8 @@ Here are some of the screenshot outputs of the project.
 <!-- START Videos -->
 ## 📽️ Videos
 Here are some of the video results of the project. 
-[Video Results](https://youtu.be/SUweYwzNpns?t=5) &
-[In Figma Results](https://www.youtube.com/watch?v=3lLSPYc5CTQ)
+1. In web results: [Result 1](https://youtu.be/SUweYwzNpns?t=5)
+2. In figma results: [Result 2](https://www.youtube.com/watch?v=3lLSPYc5CTQ)
 
 
 <p align="right"><a href="#-project-title">🔼</a></p>
