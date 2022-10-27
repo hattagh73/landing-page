@@ -1,8 +1,9 @@
-<!-- Project Title -->
+<!-- START Project Title -->
 ## 📓 Project Title
 Landing Page Using TailwindCSS.
+<!-- END Project Title -->
 
-<!-- Table Of Contents -->
+<!-- START Table Of Contents -->
 ## 📌 Table Of Contents
 Here is the table of contents of our project. You may use it to explore the whole project. 🛸
 
@@ -15,8 +16,9 @@ Here is the table of contents of our project. You may use it to explore the whol
 - [Videos](#%EF%B8%8F-videos)
 
 <p align="right"><a href="#-project-title">🔼</a></p>
+<!-- END Table Of Contents -->
 
-<!-- About Project -->
+<!-- START About Project -->
 ## 📢 About Project
 In this project we will explore on the basic of **TailwindCSS Framework**.
 
@@ -26,8 +28,9 @@ What we have done in the recent times:
 * [x] Add an **overlay** whereby when user is **hovering** to the section thus it will become a little bit **darker**. 
 
 <p align="right"><a href="#-project-title">🔼</a></p>
+<!-- END About Project -->
 
-<!-- Technology Stack -->
+<!-- START Technology Stack -->
 ## 🚀 Technology Stack
 A list of **technology stack** that we applied in this project. There are as listed below:
 
@@ -48,8 +51,9 @@ A list of **technology stack** that we applied in this project. There are as lis
 </p>
 
 <p align="right"><a href="#-project-title">🔼</a></p>
+<!-- END Technology Stack -->
 
-<!-- References -->
+<!-- START References -->
 ## 🔎 References
 This is a list of references that we found quite helpful in the contribution to this project.
 1. Background image used: [Unsplash](https://unsplash.com/s/photos/canyon)
@@ -59,20 +63,25 @@ This is a list of references that we found quite helpful in the contribution to 
 3. Color Gradients: [Color Gradients](https://uigradients.com/)
 
 <p align="right"><a href="#-project-title">🔼</a></p>
+<!-- END References -->
 
-<!-- Screenshots -->
+<!-- START Screenshots -->
 ## 📸 Screenshots
 Here are some of the screenshot outputs of the project.
 
 <img width="580" alt="Image results" src="https://user-images.githubusercontent.com/92319348/198091508-aa480db3-309b-465c-9e11-0e6ac4d9b420.png">
 
 <p align="right"><a href="#-project-title">🔼</a></p>
+<!-- END Screenshots -->
 
-<!-- Videos -->
+<!-- START Videos -->
 ## 📽️ Videos
-Here are some of the video results of the project. [Video Results](https://youtu.be/SUweYwzNpns?t=5)
+Here are some of the video results of the project. 
+[Video Results](https://youtu.be/SUweYwzNpns?t=5) &
+[In Figma Results](https://www.youtube.com/watch?v=3lLSPYc5CTQ)
+
 
 <p align="right"><a href="#-project-title">🔼</a></p>
-
+<!-- END Videos -->
 
 
