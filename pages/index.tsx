@@ -20,7 +20,9 @@ const Home:NextPage = () => {
             <main className="min-h-screen relative group/gradient">
 
                 {/* Canyon Background */}
-                <Image src={data.img_canyon1}
+                <Image 
+                    src={data.img_canyon1}
+                    alt="Canyon Background Image"
                     layout="fill"
                     objectFit="cover"
                     priority
@@ -51,7 +53,7 @@ const Home:NextPage = () => {
                             font-kaushan_script 
                             text-xl
                             text-white
-                        ">Let's Explore !
+                        ">{`Let's Explore !`}
                         </p>
 
                         {/* Title */}
@@ -78,6 +80,7 @@ const Home:NextPage = () => {
                                 <Image 
                                     className="absolute opacity-30 z-0"
                                     src={data.img_noise}
+                                    alt="Noise Background Image"
                                     layout="fill"
                                     priority
                                     quality="60"
